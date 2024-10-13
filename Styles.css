@@ -160,3 +160,55 @@ a {
     font-weight: 900;
 }
 
+.bg {
+    background-color: aliceblue;
+}
+
+.body3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 82px;
+}
+
+.cta {
+    display: flex;
+    width: 1000px;
+    height: 120px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+}
+
+.sign-up1 {
+    display: flex;
+    align-self: center;
+    outline: solid aliceblue;
+}
+
+.body3Title {
+    font-size: 20px;
+    color: #f9fAf8;
+    font-weight: 900;
+}
+
+.body3Desc {
+    font-size: 16px;
+    color: #e5e7eB;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
